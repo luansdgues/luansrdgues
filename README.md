@@ -1,5 +1,5 @@
 
-# Hey, I'm Luan 👋
+# Hey, I'm Rodrigues, Luan 👋
 
 I am a Front-End Developer with 5+ years of experience in building dynamic, user-friendly web applications using modern technologies.
 
